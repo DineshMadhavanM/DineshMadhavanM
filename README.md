@@ -79,9 +79,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/DineshMadhavanM">
-    <img src="https://github-readme-stats.vercel.app/api?username=DineshMadhavanM&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Dinesh's GitHub Stats">
-  </a>
+  
 
   <a href="https://github.com/DineshMadhavanM">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshMadhavanM&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages">
@@ -89,11 +87,6 @@
 
   <br>
 
-  <a href="https://streak-stats.demolab.com/?user=DineshMadhavanM">
-    <img src="https://streak-stats.demolab.com?user=DineshMadhavanM&theme=radical&hide_border=true" alt="GitHub Streak">
-  </a>
-
-  <br>
 
   <a href="https://github.com/DineshMadhavanM">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=DineshMadhavanM&theme=react-dark&bg_color=000000&hide_border=true&line=00FFFF&point=FFFFFF" alt="Contribution Graph" width="95%">
