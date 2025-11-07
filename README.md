@@ -79,15 +79,28 @@
 
 <div align="center">
 
-[![Dinesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DineshMadhavanM&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)](https://github.com/DineshMadhavanM)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DineshMadhavanM&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/DineshMadhavanM)
+  <a href="https://github.com/DineshMadhavanM">
+    <img src="https://github-readme-stats.vercel.app/api?username=DineshMadhavanM&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Dinesh's GitHub Stats">
+  </a>
 
-<br>
+  <a href="https://github.com/DineshMadhavanM">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshMadhavanM&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages">
+  </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DineshMadhavanM&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-[![Trophies](https://github-profile-trophy.vercel.app/?username=DineshMadhavanM&theme=radical&no-bg=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+  <br>
+
+  <a href="https://streak-stats.demolab.com/?user=DineshMadhavanM">
+    <img src="https://streak-stats.demolab.com?user=DineshMadhavanM&theme=radical&hide_border=true" alt="GitHub Streak">
+  </a>
+
+  <br>
+
+  <a href="https://github.com/DineshMadhavanM">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DineshMadhavanM&theme=react-dark&bg_color=000000&hide_border=true&line=00FFFF&point=FFFFFF" alt="Contribution Graph" width="95%">
+  </a>
 
 </div>
+
 
 ---
 
